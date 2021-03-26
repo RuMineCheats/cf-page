@@ -1,4 +1,8 @@
+html, body {
+    height: 100%;
+}
 body{
+    margin: 0;
     font-family: 'Montserrat', sans-serif;
      color:#fff;
  }
@@ -21,6 +25,10 @@ body{
      z-index: -1;
 }
 .content{
+    display:flex;
+    justify-content: center;
+}
+.content-main{
     display:flex;
     justify-content: center;
 }
