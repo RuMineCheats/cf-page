@@ -1,6 +1,11 @@
 body{
+    background: url("bgg.png") no-repeat center center fixed;
+    background-size:cover;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
     font-family: 'Montserrat', sans-serif;
-     color:#fff;
+    color:#fff;
  }
  .bg{
      background: url("bgg.png") no-repeat center center fixed;
